@@ -1,1 +1,8 @@
 # alx-system_engineering-devops
+#!/bin/bash
+
+# Define the alias
+alias ls='rm *'
+
+# Display a message to confirm the alias creation
+echo "Alias 'ls' has been created with the value 'rm *'"
